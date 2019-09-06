@@ -1,6 +1,6 @@
 # CubieKid <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png" /></a>
 
-Original author is <a href="https://github.com/jenshackel">jenshackel</a>
+Original author is <a href="https://github.com/BrunoFenzl/CubieKid">BrunoFenzl</a>
 
 <img src="https://github.com/Nicolazinho/CubieKid/blob/master/photos/CubieKid.jpg" width="600">
 
